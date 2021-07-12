@@ -1,0 +1,2 @@
+# Pular_Edits_Com_Enter
+Uma classe que adiciona a ação de pular para o próximo campo com a tecla ENTER nos componentes, sem que eles percam suas ações originais. Ou seja, mesmo que eles já possuam eventos OnKeyPress ou OnKeyUp_Down ele também irá pular para o proximo campo. O critério é: Se o edit estiver vazio ele chamará o evento original, se já estiver preenchido ai vai chamar o evento para pular para o próximo. 
