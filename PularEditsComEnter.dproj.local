@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/04/09 20:05:11.000.121,=C:\Users\fael\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/05 14:23:55.000.160,=C:\Users\fael\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/28 20:58:24.000.975,=C:\Users\fael\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/28 21:31:17.000.391,C:\OUTROS\DELPHI\PULAR DE EDIT PARA EDIT COM ENTER\uPrincipal.dfm=C:\Users\fael\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/12/28 21:31:17.000.391,C:\OUTROS\DELPHI\PULAR DE EDIT PARA EDIT COM ENTER\uPrincipal.pas=C:\Users\fael\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/28 21:39:01.000.174,=C:\Users\fael\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/12/28 21:39:19.000.485,C:\OUTROS\DELPHI\PULAR DE EDIT PARA EDIT COM ENTER\Unit2.pas=C:\Users\fael\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/12/28 21:39:19.000.485,C:\OUTROS\DELPHI\PULAR DE EDIT PARA EDIT COM ENTER\Unit2.dfm=C:\Users\fael\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2020/12/28 21:46:37.000.499,C:\OUTROS\DELPHI\PULAR DE EDIT PARA EDIT COM ENTER\PularEditsComEnter.dproj=C:\Users\fael\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/12/30 11:47:48.000.350,=C:\OUTROS\DELPHI\PULAR DE EDIT PARA EDIT COM ENTER\Unit1.pas</Transaction>
+    <Transaction>2020/12/30 11:49:01.000.787,C:\OUTROS\DELPHI\PULAR DE EDIT PARA EDIT COM ENTER\uMultiCastEvent.pas=C:\OUTROS\DELPHI\PULAR DE EDIT PARA EDIT COM ENTER\Unit1.pas</Transaction>
+    <Transaction>2021/01/11 14:41:43.000.599,C:\OUTROS\DELPHI\PULAR DE EDIT PARA EDIT COM ENTER\uMultiCastEvent.pas=</Transaction>
+    <Transaction>2021/01/11 14:49:19.000.425,=C:\OUTROS\DELPHI\PULAR DE EDIT PARA EDIT COM ENTER\Unit1.pas</Transaction>
+    <Transaction>2021/01/11 14:49:45.000.387,C:\OUTROS\DELPHI\PULAR DE EDIT PARA EDIT COM ENTER\Unit1.pas=C:\OUTROS\DELPHI\PULAR DE EDIT PARA EDIT COM ENTER\uMultCast_Eventos.pas</Transaction>
+    <Transaction>2021/01/12 08:46:01.000.692,=C:\OUTROS\DELPHI\PULAR DE EDIT PARA EDIT COM ENTER\Unit1.pas</Transaction>
+    <Transaction>2021/01/12 08:46:39.000.817,C:\OUTROS\DELPHI\PULAR DE EDIT PARA EDIT COM ENTER\Unit1.pas=C:\OUTROS\DELPHI\PULAR DE EDIT PARA EDIT COM ENTER\Classe.PularCampo_com_Enter.pas</Transaction>
+    <Transaction>2021/01/12 08:47:12.000.337,C:\OUTROS\DELPHI\PULAR DE EDIT PARA EDIT COM ENTER\Classe.PularCampo_com_Enter.pas=C:\OUTROS\DELPHI\PULAR DE EDIT PARA EDIT COM ENTER\Classe.PularCampoComEnter.pas</Transaction>
+  </Transactions>
+</BorlandProject>
